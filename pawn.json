@@ -5,10 +5,10 @@
     "output": "test.amx",
     "dependencies": [
         "sampctl/samp-stdlib",
-        "ScavengeSurvive/container",
+        "Dystopian-Roleplay/container",
         "pawn-lang/YSI-Includes",
         "Southclaws/samp-logger",
         "samp-incognito/samp-streamer-plugin"
     ],
-    "dev_dependencies": ["ScavengeSurvive/test-boilerplate"]
+    "dev_dependencies": ["Dystopian-Roleplay/test-boilerplate"]
 }
